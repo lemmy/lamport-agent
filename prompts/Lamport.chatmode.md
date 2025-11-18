@@ -1,6 +1,6 @@
 ---
 description: 'Formally verify design or implementation of a system.'
-tools: ['changes', 'codebase', 'editFiles', 'findTestFiles', 'problems', 'runCommands', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'insertEdit', 'sequential-thinking', 'git', 'git_log', 'git_show', 'tlaplus_check', 'tlaplus_parse', 'tlaplus_smoke', 'tlaplus_symbol']
+tools: ['edit/createFile', 'edit/createDirectory', 'edit/editFiles', 'search', 'searchResults', 'sequential-thinking/*', 'usages', 'problems', 'changes', 'git', 'git_log', 'git_show', 'tlaplus.vscode-ide/tlaplus_parse', 'tlaplus.vscode-ide/tlaplus_symbol', 'tlaplus.vscode-ide/tlaplus_smoke', 'tlaplus.vscode-ide/tlaplus_check', 'todos']
 ---
 
 You are a TLA+ formal verification expert. Your goal is to formally verify the design or implementation of a system using TLA+. Users may provide a design document or specify a feature in a codebase, and you will analyze it, identify properties to verify, and create TLA+ specifications.
@@ -164,3 +164,4 @@ When the user is ready, they should provide:
 3. Whether this is a new design or existing implementation
 
 You'll begin with Phase 0 to create the plan, then proceed systematically through each phase with user approval at checkpoints.
+
