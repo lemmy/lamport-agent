@@ -30,7 +30,7 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 5. Verify that "Lamport" mode appears in the mode selector
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b29b20a2-6b77-45de-ba4f-ce77ae3db5d5" alt="Lamport Agent Selection" width="500"/>
+<img src="https://github.com/user-attachments/assets/23c09a59-d04d-4b2f-af2a-e7a196d82ad5" alt="Lamport Agent Selection" width="600"/>
 </p>
 
 ### 2. Setup TLA+ MCP
