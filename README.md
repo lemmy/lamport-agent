@@ -4,7 +4,7 @@ A GitHub Copilot agent that translates designs or implementations into precise f
 
 ## Overview
 
-As AI generates increasingly more code, the skills required to ensure correctness in large systems will become highly valuable. Lamport mode is named after Leslie Lamport, the Turing Award winner who invented the Paxos consensus algorithm and the TLA+ formal language.
+As AI generates increasingly more code, the skills required to ensure correctness in large systems will become highly valuable. Lamport agent is named after Leslie Lamport, the Turing Award winner who invented the Paxos consensus algorithm and the TLA+ formal language.
 
 ## Features
 
@@ -27,7 +27,7 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 2. Name the new agent "Lamport"
 3. Copy the content from `prompts/Lamport.chatmode.md`
 4. Restart VS Code
-5. Verify that "Lamport" mode appears in the mode selector
+5. Verify that "Lamport" agent appears in the mode selector
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/23c09a59-d04d-4b2f-af2a-e7a196d82ad5" alt="Lamport Agent Selection" width="600"/>
