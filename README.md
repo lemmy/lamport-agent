@@ -23,8 +23,8 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 
 ### 1. Create Lamport Agent
 
-1. Open VS Code and navigate to **Chat: New Mode File**
-2. Name the new mode "Lamport"
+1. Open VS Code and navigate to **Chat: New Custom Agent...** (Ctrl+Shift+P)
+2. Name the new agent "Lamport"
 3. Copy the content from `prompts/Lamport.chatmode.md`
 4. Restart VS Code
 5. Verify that "Lamport" mode appears in the mode selector
