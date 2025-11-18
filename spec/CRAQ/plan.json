@@ -1,0 +1,70 @@
+{
+  "phase": 0,
+  "phases": [
+    {
+      "id": 0,
+      "name": "Planning",
+      "status": "in-progress",
+      "tasks": [
+        "Create verification plan file",
+        "List all phases with goals and checkpoints"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Happy Path & Architecture",
+      "status": "not-started",
+      "tasks": [
+        "Collect CRAQ happy path workflows and entities",
+        "Discover CRAQ-related architecture in the codebase and docs",
+        "Document happy path in happy_path.md",
+        "Document architecture in architecture.md",
+        "Get user validation for Phase 1 artifacts"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Error Handling & Concurrency",
+      "status": "not-started",
+      "tasks": [
+        "Analyze CRAQ failure modes and recovery paths",
+        "Identify concurrent interactions and potential races",
+        "Document behaviors in behavior.md",
+        "Create diagrams in diagrams.md",
+        "Get user review of Phase 2 artifacts"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Verification Properties",
+      "status": "not-started",
+      "tasks": [
+        "Draft safety and liveness properties for CRAQ",
+        "Prioritize properties by criticality",
+        "Document properties in properties.md",
+        "Review and refine properties with user"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "TLA+ Model",
+      "status": "not-started",
+      "tasks": [
+        "Create CRAQ.tla core specification",
+        "Encode properties and type invariants",
+        "Create CRAQ.cfg model checking configuration"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Model Checking & Report",
+      "status": "not-started",
+      "tasks": [
+        "Run SANY parsing and smoke tests",
+        "Run full TLC model checking",
+        "Document counterexamples and design implications",
+        "Summarize verification in verification_summary.md"
+      ]
+    }
+  ]
+}
