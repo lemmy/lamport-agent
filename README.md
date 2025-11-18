@@ -30,7 +30,7 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 5. Verify that "Lamport" mode appears in the mode selector
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8d4a0535-ed56-4c8f-bc7c-ab5e4afd0753" alt="Lamport Mode Selection" width="500">
+<img src="https://github.com/user-attachments/assets/b29b20a2-6b77-45de-ba4f-ce77ae3db5d5" alt="Lamport Agent Selection" width="500"/>
 </p>
 
 ### 2. Setup TLA+ MCP
@@ -38,7 +38,7 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 #### Install TLA+ Extension
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3d7525f1-2d8d-4e37-9f5a-5909175f48dd" alt="TLA+ Extension" width="600">
+<img src="https://github.com/user-attachments/assets/dfe4a421-ef4b-4d4c-a7ec-d0fb102eca29"  alt="TLA+ Extension" width="600"/>
 </p>
 
 #### Enable TLA+ MCP
@@ -47,7 +47,7 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 2. Restart VS Code
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3a7e7d5c-439b-4631-9043-bece190c4095" alt="TLA+ MCP Port Configuration" width="660">
+<img src="https://github.com/user-attachments/assets/96595f2b-976f-447c-976a-58ced96bd0f2"  alt="TLA+ MCP Port Configuration" width="660"/>
 </p>
 
 #### Verify TLA+ MCP Setup
@@ -55,8 +55,8 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 Click "Configure Tools..." to confirm TLA+ MCP is available:
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e8838800-9937-49bf-bd32-b0ceb405f801" alt="Configure Tools Menu" width="660">
-<img src="https://github.com/user-attachments/assets/83b5f07b-b2af-45b0-8f3e-bd9f85270a90" alt="TLA+ MCP Configured" width="660">
+<img src="https://github.com/user-attachments/assets/1ec063ce-bdc0-4bf2-9e42-ff792223d50d" alt="Configure Tools Menu" width="660"/>
+<img src="https://github.com/user-attachments/assets/79c97adf-503d-4aa5-971a-d885cbacc09d" alt="TLA+ MCP Configured" width="660"/>
 </p>
 
 #### Test the Installation
@@ -66,7 +66,7 @@ Click "Configure Tools..." to confirm TLA+ MCP is available:
 3. Execute the specification
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f024fc28-3773-49fa-bdbe-a08aa3b36ea3" alt="Execute TLA+ Specification" width="660">
+<img src="https://github.com/user-attachments/assets/168ab204-00c3-468f-8f56-7ae51488a677" alt="Execute TLA+ Specification" width="660"/>
 </p>
 
 ### 3. Setup Sequential Thinking MCP
