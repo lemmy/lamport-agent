@@ -33,30 +33,12 @@ As AI generates increasingly more code, the skills required to ensure correctnes
 <img src="https://github.com/user-attachments/assets/23c09a59-d04d-4b2f-af2a-e7a196d82ad5" alt="Lamport Agent Selection" width="600"/>
 </p>
 
-### 2. Setup TLA+ MCP
+### 2. Setup TLA+ Extension (packages TLA+ MCP)
 
 #### Install TLA+ Extension
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/dfe4a421-ef4b-4d4c-a7ec-d0fb102eca29"  alt="TLA+ Extension" width="600"/>
-</p>
-
-#### Enable TLA+ MCP
-
-1. Set a non-zero port in the TLA+ extension settings
-2. Restart VS Code
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/96595f2b-976f-447c-976a-58ced96bd0f2"  alt="TLA+ MCP Port Configuration" width="660"/>
-</p>
-
-#### Verify TLA+ MCP Setup
-
-Click "Configure Tools..." to confirm TLA+ MCP is available:
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/1ec063ce-bdc0-4bf2-9e42-ff792223d50d" alt="Configure Tools Menu" width="660"/>
-<img src="https://github.com/user-attachments/assets/79c97adf-503d-4aa5-971a-d885cbacc09d" alt="TLA+ MCP Configured" width="660"/>
 </p>
 
 #### Test the Installation
